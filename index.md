@@ -1,5 +1,4 @@
----
-title: This is my resume
+
 ---
 Mari Watson's Resume
 ---
