@@ -2,8 +2,7 @@
 ---
 Mari Watson's Resume
 ---
----
-CONTACT:
+<br> CONTACT:
 - 740-744-3693
 - elizabethwatson144@gmail.com
 - 14297 State Route 7 Proctorville, Ohio
